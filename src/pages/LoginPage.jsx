@@ -32,7 +32,7 @@ function LoginPage({ setIsAuthenticated, setToken, setRole }) {
 
   return (
     <>
-      <div className="company-name">PulseVote</div>
+      
       <form onSubmit={handleSubmit}>
         <h2>Login</h2>
         <div className="input-group">

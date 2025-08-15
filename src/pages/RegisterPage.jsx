@@ -29,7 +29,7 @@ function RegisterPage({ setIsAuthenticated, setToken, setRole }) {
 
   return (
     <>
-      <div className="company-name">PulseVote</div>
+      
       <form onSubmit={handleSubmit}>
         <h2>Register</h2>
         <div className="input-group">
